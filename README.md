@@ -1,6 +1,6 @@
 # Minecraft-Auto-Click
 
-Click LMB in minimized minecraft windows every x seconds
+Clicks LMB in minimized Minecraft windows every x seconds
 
 ## Setup Minecraft
 
